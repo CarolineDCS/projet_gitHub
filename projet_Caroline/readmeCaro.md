@@ -11,3 +11,5 @@ Création d'un ignore pour le fichier main.py
 creation du readme
 
 creation d'une branche, travaille sur cette branche, destruction lorsque c'est fini
+
+Je fait la même chose avec une autre branche, mais cette fois je fais un sqhash des commit
