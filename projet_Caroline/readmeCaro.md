@@ -17,4 +17,4 @@ Je fait la même chose avec une autre branche, mais cette fois je fais un sqhash
 Je fais un faux commit qui dit que je travaille pendant la tash.
 Je reviens dessus avec un revert
 
-Puis je crer une tash, je travaille sur autre branche, puis je supprime la tash
+Puis je crer une tash, je travaille sur autre branche, puis je supprime la tashCONFLIT BRANCHE DEMO
