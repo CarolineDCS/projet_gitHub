@@ -17,4 +17,6 @@ Je fait la même chose avec une autre branche, mais cette fois je fais un sqhash
 Je fais un faux commit qui dit que je travaille pendant la tash.
 Je reviens dessus avec un revert
 
-Puis je crer une tash, je travaille sur autre branche, puis je supprime la tashCONFLIT BRANCHE FEATURE_CARO
+Je gere une vrai stach avec des pommes de terres
+
+Je supprime le conflit venu de la modification de ce readme depuis 2 branches différentes. en supprimant le text.
