@@ -9,3 +9,5 @@ creation de ma branche principal feature_caroline
 Création d'un ignore pour le fichier main.py
 
 creation du readme
+
+creation d'une branche, travaille sur cette branche, destruction lorsque c'est fini
